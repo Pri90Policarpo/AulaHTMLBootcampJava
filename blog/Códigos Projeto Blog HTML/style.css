@@ -1,0 +1,41 @@
+/* styles.css */
+
+body.pagina1 {
+    background-color: #bdb16f; /* Substitua com a cor desejada */
+    color: #000000; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+    
+    <style>
+        body {
+            text-align: center; /* Centraliza o texto no corpo do documento */
+        }
+
+        h1 {
+            color: #cc004e !important; 
+        }
+
+        ul {
+            list-style-type: square;
+            padding: 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+}
+
+body.pagina2 {
+    background-color: #bdb16f; /* Substitua com a cor desejada */
+    color: #000000; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+}
+
+body.pagina3 {
+    background-color: #bdb16f; /* Substitua com a cor desejada */
+    color: #000000; /* Cor do texto */
+    font-family: 'Arial', sans-serif; /* Fonte do texto */
+}
